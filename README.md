@@ -16,10 +16,10 @@ Ce dépôt regroupe les travaux pratiques réalisés dans le cadre du module **A
 ---
 
 ## Structure du dépôt
-SGBD-APPS-DISTRIBUEES/
+<!-- SGBD-APPS-DISTRIBUEES/
 ├── JDBC/       # Java Database Connectivity
 ├── JPA/        # Java Persistence API + Hibernate
-└── JPQL/       # Java Persistence Query Language
+└── JPQL/       # Java Persistence Query Language -->
 
 ### `JDBC/`
 Connexion directe à une base de données relationnelle via l'API JDBC.  
@@ -59,7 +59,7 @@ Utilisation de `TypedQuery`, `NamedQuery`, jointures, agrégations et projection
 
 ## Auteur
 
-**Asma ZAHANI** — Étudiant en Master CCDAD
+**Asma ZAHANI** — Étudiant en Master CCDAD.
 Institut Supérieur des Études Technologiques de Sousse · DÉPARTEMENT TECHNOLOGIES DE L’INFORMATIQUE
 
 ---
