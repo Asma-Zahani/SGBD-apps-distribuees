@@ -59,7 +59,7 @@ Utilisation de `TypedQuery`, `NamedQuery`, jointures, agrégations et projection
 
 ## Auteur
 
-**Asma ZAHANI** — Étudiant en Master CCDAD.
+**Asma ZAHANI** — Étudiant en Master CCDAD  
 Institut Supérieur des Études Technologiques de Sousse · DÉPARTEMENT TECHNOLOGIES DE L’INFORMATIQUE
 
 ---
